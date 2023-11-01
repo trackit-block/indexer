@@ -46,8 +46,7 @@ By effectively reducing the time and complexity associated with querying assets 
    By using the Move Indexer, developers can streamline the querying and manipulation of data on the blockchain. This not only saves time but also makes it easier to build innovative and user-friendly decentralized applications within the Web 3.0 ecosystem. The Move Indexer is a valuable resource that simplifies and accelerates the development of blockchain-based applications, providing efficient access to a wide range of data sources.
 
 #### Architecture 🏗
-
-![](https://github.com/trackit-block/indexer/blob/main/architecture_diagram.jpeg)
+<img src="https://github.com/trackit-block/indexer/blob/main/architecture_diagram.jpeg" width="600" height="600">
 
 1. **Architecture Overview:**
    The architecture of this Web3 data indexer is designed with a focus on simplicity and efficiency, ensuring a seamless interaction with various data sources within the Web3 ecosystem.
