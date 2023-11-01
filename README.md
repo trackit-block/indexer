@@ -47,6 +47,8 @@ By effectively reducing the time and complexity associated with querying assets 
 
 #### Architecture 🏗
 
+![] (https://github.com/trackit-block/indexer/blob/main/architecture_diagram.jpeg)
+
 1. **Architecture Overview:**
    The architecture of this Web3 data indexer is designed with a focus on simplicity and efficiency, ensuring a seamless interaction with various data sources within the Web3 ecosystem.
 
