@@ -119,70 +119,23 @@ The Web3 data architecture described here is a significant asset to the broader 
 
 Harish and Evolution are strongly committed to the Move ecosystem and have demonstrated their ability to deliver high-quality, impactful projects. They bring a wealth of knowledge and experience to the Move Indexer project. Their work has earned Move the number one rank as a decentralized dapp in the Move ecosystem on [Github](). You can read more about their work and Move's contributions to the Move ecosystem on the [Move Wiki]().
 
-
-### Team Code Repos
-
-
-#### Team GitHub accounts 🧑‍💻
-
-
-
-### Team LinkedIn Profiles 🧑‍🎓
-
-
-
-
-## Development Status :open_book:
-
-
-
 ## Development Roadmap :nut_and_bolt:
 
 ### Overview
 
 - **Estimated duration:**  3 months ⌛️
 - **FTE:**  2 FTE
-- **Costs:**   
-
-
-## Milestone 1 - Move Indexer Implementation first part
-- **Estimated duration:**  3 months ⌛️
+ 
+## Milestone 1 - Designing the processor
+- **Estimated duration:**  1 months ⌛️
 - **FTE:**  2 FTE
-- **Costs:**  
-
-                                             
-
-## Future Plans 🔭
-
-The future plans are designed to ensure the continuous improvement and expansion of the system's capabilities, adapting to user feedback and technological advancements. Here are the key enhancements and upgrades we plan to implement:
-
-1. **Data Explorer Development:**
-   We aim to create a data explorer that will facilitate seamless navigation within the Web3 data ecosystem. This explorer will make it easier for users to discover and access various data sources and datasets.
-
-2. **Collections Functionality:**
-   To enhance data organization, we plan to introduce collections functionality. This feature will enable systematic categorization and organization of datasets, making it simpler for users to find and work with specific data sets.
-
-3. **Visual Representation with View Modules:**
-   Visual presentation of data is essential. We plan to create view modules that will visually present data details, making it more accessible and user-friendly for developers and data consumers.
-
-4. **User Profiles:**
-   To offer a more personalized experience, we intend to establish user profiles within the system. User profiles will enable personalized user interfaces, allowing users to tailor their data interactions and preferences.
-
-5. **Individual NFT Elements:**
-   We will incorporate constituent elements for individual NFT representation, ensuring that all relevant details and components of NFTs are easily accessible and usable.
-
-6. **Action Components:**
-   For increased functionality, we will implement action components, such as LIST, SEND, BUY, MINT, BURN, and Atomic Swap. These components will expand the range of actions that users can perform with their data.
-
-7. **Statistical Representations and Analytics:**
-   Comprehensive statistical representations and analytics mechanisms will be developed. These tools will provide insights and data-driven analyses, allowing users to make informed decisions.
-
-8. **Rankings and Highlighting:**
-   Rankings will be introduced to highlight top-performing users, collections, or items within the Web3 data ecosystem. This feature will recognize and promote excellence and valuable contributions.
-
-9. **User Interface Personalization:**
-   The user interface will be further personalized to enhance the user experience. Customization options will be made available to ensure that users can tailor their interactions with the system to their preferences.
-
+## Milestone 2 - Deploying in the testnet 
+- **Estimated duration:**  1 months ⌛️
+- **FTE:**  2 FTE
+## Milestone 3 - Deploying in the mainnet 
+- **Estimated duration:**  1 months ⌛️
+- **FTE:**  2 FTE
+  
 
 These future plans are designed to keep the Web3 data architecture at the cutting edge, providing users with a robust, user-friendly, and continuously improving data ecosystem. The ongoing development and expansion will align with user needs and technological advancements, fostering innovation and efficiency in the Web3 data space.
 
