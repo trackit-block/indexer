@@ -87,10 +87,8 @@ The Web3 data architecture described here is a significant asset to the broader 
 **Tooling** refers to the various software tools and applications that are used by individuals or teams to develop, manage, and maintain software, systems, and infrastructure. These tools are designed to streamline processes, enhance productivity, and support specific tasks within the software development and IT operations domains. Types of tooling include:
 
 - **Development Tools**: Integrated Development Environments (IDEs), code editors, version control systems (e.g., Git), compilers, and debugging tools are used by developers to write, test, and manage code.
-- **DevOps Tools**: Continuous Integration and Continuous Delivery (CI/CD) pipelines, containerization and orchestration tools (e.g., Docker, Kubernetes), and infrastructure as code (IaC) tools (e.g., Terraform, Ansible) automate the deployment and management of software and infrastructure.
 - **Monitoring and Observability Tools**: Tools like application performance monitoring (APM), log management, and error tracking systems help organizations monitor the health and performance of their applications and infrastructure.
 - **Collaboration and Communication Tools**: Messaging platforms, project management software, and team collaboration tools facilitate communication and coordination among team members.
-- **Security Tools**: Security-focused tooling includes antivirus software, intrusion detection systems, vulnerability scanners, and encryption tools to protect data and systems from security threats.
 - **Data and Analytics Tools**: Database management systems (DBMS), data analysis platforms, and reporting tools support data storage, analysis, and reporting.
 
 ## Team :busts_in_silhouette:
@@ -124,7 +122,7 @@ Harish and Evolution are strongly committed to the Move ecosystem and have demon
 ### Overview
 
 - **Estimated duration:**  3 months ⌛️
-- **FTE:**  2 FTE
+- **FTE:**  2 FTE and 1 FT Marketing
  
 ## Milestone 1 - Designing the processor
 - **Estimated duration:**  1 months ⌛️
@@ -135,6 +133,9 @@ Harish and Evolution are strongly committed to the Move ecosystem and have demon
 ## Milestone 3 - Deploying in the mainnet 
 - **Estimated duration:**  1 months ⌛️
 - **FTE:**  2 FTE
+## Milestone 4 - Marketing
+- **Estimated duration:**  Continuous... ⌛️
+- **FTE:**  1 FTE
   
 
 These future plans are designed to keep the Web3 data architecture at the cutting edge, providing users with a robust, user-friendly, and continuously improving data ecosystem. The ongoing development and expansion will align with user needs and technological advancements, fostering innovation and efficiency in the Web3 data space.
